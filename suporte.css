@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+}
+body{
+    background-image: url(/subtle-prism.png);
+    background-size: cover;
+}
+header{
+    text-align: center;
+    background-color: #6151c7ad;
+}
+h1{
+    margin-bottom: 20px;
+}
+
+a{
+    color: black;
+}
+
+form{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background:linear-gradient(#836FFF, #EE82EE);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+footer{
+    font-size: 3mm;
+    margin-top: 5%;
+    background-color: #836FFF;
+    padding: 5px;
+}
